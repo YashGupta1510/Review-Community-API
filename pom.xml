@@ -9,12 +9,12 @@
 		<version>3.1.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.nagarro</groupId>
-	<artifactId>exitTestAPI</artifactId>
+	<groupId>com.yash</groupId>
+	<artifactId>reviewCommunityAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>exitTestAPI</name>
-	<description>exitTestAPI project for Exit test Nagarro</description>
+	<description>reviewCommunityAPI project for Exit test Nagarro</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
